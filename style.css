@@ -4,7 +4,12 @@ body {
     font-family: Georgia, serif;
     margin: 40px;
 }
-
+h1 {
+    text-align: centre;
+}
+title {
+    text-align: centre;
+}
 a {
     color: #88ccff;
     text-decoration: none;
@@ -14,6 +19,3 @@ a:hover {
     text-decoration: underline;
 }
 
-h1 {
-    text-align: centre;
-}
