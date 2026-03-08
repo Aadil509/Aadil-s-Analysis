@@ -1,5 +1,5 @@
 body {
-    background-color: #111;
+    background-color: #000;
     color: #eee;
     font-family: Georgia, serif;
     margin: 40px;
@@ -35,6 +35,7 @@ a:hover {
   width: 400px;
   height: 60px;
   border-radius: 40px;
+  margin: 40px auto;   /* centers the navbar */
 }
 
 .container:hover .outline .rect {
@@ -140,4 +141,12 @@ a:hover {
 
 .show {
   display: block;
+}
+.logo {
+  display: block;
+  margin: 20px auto;
+  width: 600px;
+  max-width: 90%;
+  height: 300px;
+  background-color: black;
 }
